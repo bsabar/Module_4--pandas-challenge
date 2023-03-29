@@ -19,12 +19,14 @@ Create a new repository for this project called pandas-challenge. Do not add thi
 - Push these changes to GitHub or GitLab.
 
 <hr/>
+
 ### Files
 Download the following files to help you get started:
 
 Module 4 Challenge filesLinks to an external site.
 
 <hr/>
+
 ## Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
